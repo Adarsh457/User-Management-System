@@ -17,5 +17,5 @@ The app is fully responsive and deployed on Netlify.
 # Home Page
 
 
-![image alt](https://github.com/Adarsh457/User-Management-System/blob/da6b5eb83cc2de99398ed0860c524e4265dd6244/crud.png)
+![image alt](https://github.com/Adarsh457/User-Management-System/blob/409b71ac4e9b757d3beba179404ea2bf53f6072a/crud%20(2).png)
 
