@@ -14,5 +14,8 @@ The app is fully responsive and deployed on Netlify.
 🔗 https://user-crud-op.netlify.app/
 
 
-https://github.com/Adarsh457/User-Management-System/blob/da6b5eb83cc2de99398ed0860c524e4265dd6244/crud.png
+# Home Page
+
+
+![image alt](https://github.com/Adarsh457/User-Management-System/blob/da6b5eb83cc2de99398ed0860c524e4265dd6244/crud.png)
 
